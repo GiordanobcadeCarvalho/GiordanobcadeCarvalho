@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Giordano Bruno de Carvalho
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter and React/React Native
 - 📫 How to reach me giordanobcadecarvalho@gmail.com
 
 <!---
