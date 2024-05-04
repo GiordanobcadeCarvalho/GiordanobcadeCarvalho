@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Giordano Bruno de Carvalho</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Digalyze**
-
 - 💬 Ask me about **Javascript, Typescript, React**
 
 - 📫 How to reach me **giordanobcadecarvalho@gmail.com**
